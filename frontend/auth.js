@@ -54,7 +54,11 @@ document.getElementById("loginform")?.addEventListener("submit",async(e)=>{
       if(res.ok){
         localStorage.setItem("token",data.token);
         alert("login successful");
+<<<<<<< HEAD
         window.location.href="view.html";
+=======
+        window.location.href="devjournaldashboard.html";
+>>>>>>> b8a6c34b9ce7edc6fea6df4f813c78946f056368
 
       }
       else {

@@ -56,7 +56,11 @@ h1 {
 
 
 #entry {
+<<<<<<< HEAD
   background-color: #fbebeb;
+=======
+  background-color: #ffffff;
+>>>>>>> b8a6c34b9ce7edc6fea6df4f813c78946f056368
   max-width: 600px;
   margin: 0 auto;
   padding: 30px 40px;

@@ -12,5 +12,7 @@ DevJournal is a Node.js + MongoDB-based journaling backend where users can regis
 📦 Built with Node.js, Express, MongoDB, Mongoose, and bcryptjs
 
 
+
+
 https://github.com/user-attachments/assets/dc70871a-14fd-4e7d-922b-204ec8660427
 
